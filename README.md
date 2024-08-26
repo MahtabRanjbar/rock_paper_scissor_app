@@ -38,7 +38,7 @@ This is a simple Rock, Paper, Scissors game built using Streamlit. Players can s
  To run the application, execute the following command:
 
 ```bash
-    streamlit run app.py
+    streamlit run src/app.py
 ```
 ## How to Play
 - Select your choice (Rock, Paper, or Scissors) from the dropdown menu.
